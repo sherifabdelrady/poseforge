@@ -1,5 +1,9 @@
 # PoseForge — Real-time Pose & Gesture Recognition
 
+[![CI](https://github.com/sherifabdelrady/poseforge/actions/workflows/ci.yml/badge.svg)](https://github.com/sherifabdelrady/poseforge/actions) ![License](https://img.shields.io/badge/license-MIT-green) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![metric](https://img.shields.io/badge/metric-AP%2077.1%-informational)
+
+
+
 > ViTPose + MediaPipe pipeline · AP 77.1% on COCO Pose · 30 FPS real-time
 
 ## Overview
